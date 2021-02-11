@@ -68,3 +68,40 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+      Link used in app.js
+        import Property from './basic/Property'
+        import StateExa from './basic/StateExa'
+        import Hide from './basic/Hide'
+        import EventClass from './basic/EventClass'
+        import Life from './basic/Life'
+        import DidMount from './basic/didmount'
+        import DidUpdate from './basic/DidUpdate'
+        import WillUnMount from './basic/WillUnmount'
+        import HooksOne from './hooks/HooksOne'
+        import UseEffectOne from './hooks/UseEffectOne'
+        import UserForm from './forms/userform'
+        import FormValidation from './forms/formValidation'
+        import  Style  from './style/style'
+
+        Component calling 
+       <Home  text="This is functional  component"/>
+       <Profile />
+       <Property text={{name:'ankit'}} data="props data"/>   
+       <StateExa /> 
+       <Hide />
+       <EventClass />
+       <Life />
+      <DidMount />
+       <DidUpdate />
+      <WillUnMount />
+     <HooksOne />
+    <UseEffectOne />
+    <UserForm />
+    <FormValidation />
+    <MapListing />
+    <Style data="applys" />
+
+
