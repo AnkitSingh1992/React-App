@@ -1,0 +1,53 @@
+{
+  "resturant": [
+    {
+      "name": "pizza-hutt",
+      "address": "delhi",
+      "rating": "4.9",
+      "email": "pizzahut@email.com",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "mc-donal",
+      "address": "delhi",
+      "rating": "4.0",
+      "email": "mcdonal@email.com"
+    },
+    {
+      "id": 3,
+      "name": "worldbit",
+      "address": "mumbai",
+      "rating": "4.6",
+      "email": "world@email.com"
+    },
+    {
+      "id": 4,
+      "name": "bbq",
+      "address": "noida",
+      "rating": "4.5",
+      "email": "bbq@email.com"
+    },
+    {
+      "id": 5,
+      "name": "taj",
+      "address": "noida",
+      "rating": "4.5",
+      "email": "taj@email.com"
+    },
+    {
+      "name": "taj1",
+      "address": "noida",
+      "rating": "4.5",
+      "email": "taj@email.com",
+      "id": 6
+    },
+    {
+      "name": "roshan-rest and bar",
+      "address": "bangore",
+      "rating": "4.8",
+      "email": "roshan@email.com",
+      "id": 7
+    }
+  ]
+}
